@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TalentedB
 - 👀 I’m interested in the universe.
 - 🌱 I’m currently learning engineering
-- 💞️ I’m looking to collaborate on any project to help me learning.
+- 💞️ I’m looking to collaborate on any project to help my learning.
 - 📫 How to reach me ...
 
 <!---
