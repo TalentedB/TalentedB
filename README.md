@@ -15,7 +15,8 @@ const talent = {
             python: "proficient",
             c: "proficient",
             cpp: "proficient",
-            rust: "learning"
+            rust: "learning",
+            java: "learning"
         },
         miscellaneous: {
             matLab: "proficient",
