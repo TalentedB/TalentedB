@@ -19,6 +19,7 @@ const talent = {
             java: "learning"
         },
         miscellaneous: {
+            selenium: "proficient",
             matLab: "proficient",
             r: "proficient",
             ahk: "proficient"
