@@ -27,7 +27,6 @@ const talent = {
     }
 };
 ```
-
 ## 🗣️ 𝙋𝙧𝙤𝙟𝙚𝙘𝙩𝙨:
 I have many projects privated, if you are interested in hearing about any of them, reach out!
 I always love talking about my projects.
