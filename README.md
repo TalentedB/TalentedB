@@ -9,14 +9,17 @@ const talent = {
         frontEnd: {
             css: "learning",
             javascript: "proficient",
-            html: "learning"
+            html: "learning",
+            flutter: "learning"
         },
         backEnd: {
             python: "proficient",
             c: "proficient",
             cpp: "proficient",
             rust: "learning",
-            java: "learning"
+            java: "proficient",
+            dart: "learning",
+            sql: "learning"
         },
         miscellaneous: {
             git: "intermediate",
@@ -24,7 +27,9 @@ const talent = {
             bash: "learning",
             matLab: "proficient",
             r: "proficient",
-            ahk: "proficient"
+            ahk: "proficient",
+            shell: "learning",
+            bash: "learning"
         }
     }
 };
