@@ -4,7 +4,7 @@
 ```javascript
 const talent = {
     degree: "software engineering",
-    askMeAbout: ["gaming", "the universe", "automation softwares", "bug hunting", "cool tech", "desmos"],
+    askMeAbout: ["cyber security", "gaming", "the universe", "automation softwares", "bug hunting", "cool tech", "desmos"],
     technologies: {
         frontEnd: {
             css: "learning",
