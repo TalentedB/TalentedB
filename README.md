@@ -5,6 +5,7 @@
 const talent = {
     degree: "software engineering",
     askMeAbout: ["cyber security", "gaming", "the universe", "automation softwares", "bug hunting", "cool tech", "desmos"],
+    endGoal: "Wanting to make the world a better and safer place for everyone",
     technologies: {
         frontEnd: {
             css: "learning",
