@@ -15,6 +15,7 @@ const talent = {
         },
         backEnd: {
             python: "proficient",
+            go: "learning",
             c: "proficient",
             cpp: "proficient",
             rust: "learning",
