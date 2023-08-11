@@ -15,13 +15,13 @@ const talent = {
         },
         backEnd: {
             python: "proficient",
-            go: "learning",
+            go: "proficient",
             c: "proficient",
             cpp: "proficient",
             rust: "learning",
             java: "proficient",
             dart: "learning",
-            sql: "learning"
+            sql: "intermediate"
         },
         miscellaneous: {
             git: "intermediate",
