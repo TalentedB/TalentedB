@@ -46,6 +46,8 @@ I always love talking about my projects.
 
 In the mean time you can go check out some of my cool public projects! 
 
+[Confesi - A startup I have been helping create](https://confesi.com)
+
 [A very intuitiaive algorithem visualizer allowing users to try many different path finding algorithems in real time](https://github.com/mattrltrent/algorithm_visualizer)
 
 [A tool allows users to draw paintings on their contribution grid with ease.](https://github.com/TalentedB/GitHub-Painter)
