@@ -2,9 +2,13 @@
 ### aboutMe.js
 
 ```javascript
-const talent = {
-    degree: "software engineering",
-    askMeAbout: ["cyber security", "gaming", "the universe", "automation softwares", "bug hunting", "cool tech", "desmos"],
+const chris = {
+    degree: {
+        name: "software engineering",
+        year: "3rd",
+        sideProjectSlowdownRate: "999"
+    },
+    askMeAbout: ["confesi", "cyber security", "gaming", "the universe", "automation softwares", "bug hunting", "cool tech", "desmos"],
     endGoal: "Wanting to make the world a better and safer place for everyone",
     technologies: {
         frontEnd: {
@@ -30,8 +34,8 @@ const talent = {
             matLab: "proficient",
             r: "proficient",
             ahk: "proficient",
-            shell: "learning",
-            bash: "learning"
+            shell: "intermediate",
+            bash: "intermediate"
         }
     }
 };
@@ -52,6 +56,7 @@ In the mean time you can go check out some of my cool public projects!
 
 ## 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎:
 You can reach me through LinkedIn messages or any other way you can find.
+(Website Coming Soon)
 
 Check Out My Socials!
 
