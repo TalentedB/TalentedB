@@ -5,8 +5,7 @@
 const chris = {
     degree: {
         name: "software engineering",
-        year: "3rd",
-        sideProjectSlowdownRate: "999"
+        year: "3rd"
     },
     askMeAbout: ["confesi", "cyber security", "gaming", "the universe", "automation softwares", "bug hunting", "cool tech", "desmos"],
     endGoal: "Wanting to make the world a better and safer place for everyone",
