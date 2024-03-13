@@ -12,20 +12,20 @@ const chris = {
     endGoal: "Wanting to make the world a better and safer place for everyone",
     technologies: {
         frontEnd: {
-            css: "learning",
+            css: "proficient",
             javascript: "proficient",
-            html: "learning",
+            html: "proficient",
             flutter: "learning"
         },
         backEnd: {
-            python: "proficient",
+            python: "advanced",
             go: "proficient",
             c: "proficient",
             cpp: "proficient",
             rust: "learning",
             java: "proficient",
             dart: "learning",
-            sql: "intermediate"
+            sql: "proficient"
         },
         miscellaneous: {
             git: "intermediate",
@@ -34,8 +34,8 @@ const chris = {
             matLab: "proficient",
             r: "proficient",
             ahk: "proficient",
-            shell: "intermediate",
-            bash: "intermediate"
+            shell: "proficient",
+            bash: "proficient"
         }
     }
 };
