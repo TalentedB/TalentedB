@@ -40,6 +40,7 @@ const chris = {
         }
     }
 };
+// Yes I know this is technically wrong, I just think it looks better this way <3
 ```
 ## 🗣️ 𝙋𝙧𝙤𝙟𝙚𝙘𝙩𝙨:
 I have many projects privated, if you are interested in hearing about any of them, reach out!
