@@ -35,7 +35,8 @@ const chris = {
             r: "proficient",
             ahk: "proficient",
             shell: "proficient",
-            bash: "proficient"
+            bash: "proficient",
+            regex: "proficient"
         }
     }
 };
