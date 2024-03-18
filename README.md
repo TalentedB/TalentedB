@@ -48,6 +48,8 @@ I always love talking about my projects.
 
 In the mean time you can go check out some of my cool public projects! 
 
+[Health Check - A notification based reminder tool to help with healthy computer habits](https://chrishuk.dev/health-check)
+
 [Confesi - A startup I have been helping create](https://confesi.com)
 
 [A very intuitiaive algorithem visualizer allowing users to try many different path finding algorithems in real time](https://github.com/mattrltrent/algorithm_visualizer)
