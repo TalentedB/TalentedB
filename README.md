@@ -62,7 +62,7 @@ In the mean time you can go check out some of my cool public projects!
 
 ## 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎:
 You can reach me through LinkedIn messages or any other way you can find.
-[My Portfolio](https://chrishuk.dev)
+[Check out my website!](https://chrishuk.dev)
 
 Check Out My Socials!
 
