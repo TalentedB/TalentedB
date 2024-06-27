@@ -7,7 +7,7 @@ const chris = {
         name: "software engineering",
         year: "3rd"
     },
-    askMeAbout: ["confesi", "cyber security", "gaming", "literally anything",
+    askMeAbout: ["gaming", "literally anything",
                  "the universe", "automation softwares", "bug hunting", "cool tech", "desmos"],
     endGoal: "Wanting to make the world a better and safer place for everyone",
     technologies: {
