@@ -7,13 +7,15 @@ const chris = {
         name: "software engineering",
         year: "3rd"
     },
-    askMeAbout: ["gaming", "literally anything",
-                 "the universe", "automation softwares", "bug hunting", "cool tech", "desmos"],
+    openToCollaboration: true,
+    askMeAbout: ["gaming", "literally anything", "the universe", "cool tech", "desmos", "robots"],
     endGoal: "Wanting to make the world a better and safer place for everyone",
+    personalWebsiteHref: "chrishuk.dev",
     technologies: {
         frontEnd: {
             css: "proficient",
             javascript: "proficient",
+            react: "learning"
             html: "proficient",
             flutter: "learning"
         },
@@ -30,7 +32,6 @@ const chris = {
         miscellaneous: {
             git: "intermediate",
             selenium: "proficient",
-            bash: "learning",
             matLab: "proficient",
             r: "proficient",
             ahk: "proficient",
@@ -49,8 +50,6 @@ I always love talking about my projects.
 In the mean time you can go check out some of my cool public projects! 
 
 [Health Check - A notification based reminder tool to help with healthy computer habits](https://chrishuk.dev/health-check)
-
-[Confesi - A startup I have been helping create](https://confesi.com)
 
 [A very intuitiaive algorithem visualizer allowing users to try many different path finding algorithems in real time](https://github.com/mattrltrent/algorithm_visualizer)
 
