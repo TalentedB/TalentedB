@@ -15,7 +15,7 @@ const chris = {
         frontEnd: {
             css: "proficient",
             javascript: "proficient",
-            react: "learning"
+            react: "learning",
             html: "proficient",
             flutter: "learning"
         },
