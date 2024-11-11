@@ -5,7 +5,7 @@
 const chris = {
     degree: {
         name: "software engineering",
-        year: "3rd"
+        year: "4th"
     },
     openToCollaboration: true,
     askMeAbout: ["gaming", "literally anything", "the universe", "cool tech", "desmos", "robots"],
