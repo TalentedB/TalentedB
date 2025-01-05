@@ -51,13 +51,7 @@ In the mean time you can go check out some of my cool public projects!
 
 [Health Check - A notification based reminder tool to help with healthy computer habits](https://chrishuk.dev/health-check)
 
-[A very intuitiaive algorithem visualizer allowing users to try many different path finding algorithems in real time](https://github.com/mattrltrent/algorithm_visualizer)
-
 [A tool allows users to draw paintings on their contribution grid with ease.](https://github.com/TalentedB/GitHub-Painter)
-
-[An amazingly cool chrome extension that allows for video playback customization on all websites.](https://github.com/TalentedB/Youtube-Plus)
-
-[A pretty simple CLI tool used to extract slides from lecture videos using frame change thresholds.](https://github.com/TalentedB/Slideshow-Extractor)
 
 ## 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎:
 You can reach me through LinkedIn messages or any other way you can find.
