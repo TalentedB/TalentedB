@@ -43,15 +43,6 @@ const chris = {
 };
 // Yes I know this is technically wrong, I just think it looks better this way <3
 ```
-## 🗣️ 𝙋𝙧𝙤𝙟𝙚𝙘𝙩𝙨:
-I have many projects privated, if you are interested in hearing about any of them, reach out!
-I always love talking about my projects.
-
-In the mean time you can go check out some of my cool public projects! 
-
-[Health Check - A notification based reminder tool to help with healthy computer habits](https://chrishuk.dev/health-check)
-
-[A tool allows users to draw paintings on their contribution grid with ease.](https://github.com/TalentedB/GitHub-Painter)
 
 ## 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎:
 You can reach me through LinkedIn messages or any other way you can find.
