@@ -48,11 +48,5 @@ const chris = {
 You can reach me through LinkedIn messages or any other way you can find.
 [Check out my website!](https://chrishuk.dev)
 
-Check Out My Socials!
-
-[<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height="40em" align="center" alt="Follow Talent on LinkedIn" title="Follow Talent on LinkedIn"/>](https://www.linkedin.com/in/christopher-huk)
-[<img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/LeetCode_Logo_1.png" height="40em" align="center" alt="Check out Talent's LeetCode" title="Check out Talent's LeetCode"/>](https://leetcode.com/TalentedB)
-
-
 
 
