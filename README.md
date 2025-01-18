@@ -46,6 +46,7 @@ const chris = {
 
 ## 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎:
 You can reach me through LinkedIn messages or any other way you can find.
+
 [Check out my website!](https://chrishuk.dev)
 
 
